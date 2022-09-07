@@ -3,5 +3,9 @@ VimCrypt~03!X¢›şJÆŞ!
 L°ÌBõU¬f»Ì"cĞ•X&á1h2k{$Ë}aù}ˆ,´ğh@
 =======
 #!/bin/bash
+<<<<<<< HEAD
 find /PATH -type d | wc -l
 >>>>>>> c01c82391ef3cce5a1f89053c9c82446de337538
+=======
+find PATH -type d | wc -l
+>>>>>>> d69e8f1abab8ea88ee5279ad0fdd7673576bdb03
