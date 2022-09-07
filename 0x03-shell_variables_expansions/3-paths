@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 VimCrypt~03!X¢›þJÆÞ!
 ŽL°ÌBõUž¬f»Ì"cÐ•X&á1h2k{$Ë}aù}ˆ,´ðh@
+=======
+#!/bin/bash
+find /PATH -type d | wc -l
+>>>>>>> c01c82391ef3cce5a1f89053c9c82446de337538
